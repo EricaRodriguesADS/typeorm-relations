@@ -6,4 +6,4 @@
 yarn install
 
 ### Executar o projeto
-yarn android ou yarn ios
+yarn dev:server
